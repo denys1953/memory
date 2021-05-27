@@ -3,8 +3,8 @@
    background-color: #2b87d1;
 }
 .elem {
-   width: 120px;
-   height: 120px;
+   width: 100px;
+   height: 100px;
    background-color: #2573c1;
    border: 7px solid #2b87d1;
    text-align: center;
@@ -29,7 +29,8 @@
 #start {
    font-size: 20px;
    color: white;
-   width: 100px;
+   width: 150px;
+   height: 50px;
    margin-top: 40px;
 }
 .active {
