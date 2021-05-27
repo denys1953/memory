@@ -1,0 +1,37 @@
+* {
+   user-select: none;
+   background-color: #2b87d1;
+}
+.elem {
+   width: 120px;
+   height: 120px;
+   background-color: #2573c1;
+   border: 7px solid #2b87d1;
+   text-align: center;
+   padding: 0.3em 0;
+   display: inline-block;
+   color: #f9f6f2;
+   font-size: 55px;
+   font-family: 'Roboto', sans-serif;
+   border-radius: 20px;
+   cursor: pointer;
+}
+.field {
+   margin-top: 10px;
+   border: 7px solid #2b87d1;
+   border-radius: 5px;
+}
+#level {
+   margin-top: 20px;
+   font-size: 24px;
+   color: white;
+}
+#start {
+   font-size: 20px;
+   color: white;
+   width: 100px;
+   margin-top: 40px;
+}
+.active {
+   background-color: #fff;
+}
